@@ -1,5 +1,9 @@
 # Cheatjar-antilogscaner
+## Thông tin
+- sử dụng python 3.12
+- được tạo bởi kenftr
 
+## Cách tải
 B1 : bấm vào thanh command line
 B2 : sau đó nhập vào cmd và enter
 B3 : nhập pip install -r requirements.txt
